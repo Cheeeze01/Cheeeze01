@@ -1,11 +1,9 @@
-## Hi there 👋
-
+## Hi there 👋 
+CNU CSE 202202540 강세훈
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <!--
 **Cheeeze01/Cheeeze01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-CNU CSE 202202540.
 
 Here are some ideas to get you started:
 
